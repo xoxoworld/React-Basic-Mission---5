@@ -1,0 +1,8 @@
+'font-family': 34774
+Snippet around 'font-family':
+fillRule","fill-rule"],["floodColor","flood-color"],["floodOpacity","flood-opacity"],["fontFamily","font-family"],["fontSize","font-size"],["fontSizeAdjust","font-size-adjust"],["fontStretch","font-stretch"],["fontStyle","font-style"],["fontVariant","font-variant"],["fontWeight","font-weight"],["gly
+
+'background-color': -1
+'#242424': -1
+'color-scheme': -1
+'Avenir': -1
